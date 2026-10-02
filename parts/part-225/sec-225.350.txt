@@ -1,0 +1,19 @@
+Title 12 CFR — Part 225—BANK HOLDING COMPANIES AND CHANGE IN BANK CONTROL (REGULATION Y)
+Subpart O—Quality Control Standards for Automated Valuation Models Used for Mortgage Lending Purposes
+## § 225.350 Authority, purpose and scope.
+
+§ 225.350 Authority, purpose and scope.
+
+(a) Authority. (1) In general. This subpart is issued pursuant to section 1125 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, 12 U.S.C. 3354, as added by section 1473(q) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, 124 Stat. 1376, 2198 (2010)), as well as under the Federal Reserve Act, as amended (12 U.S.C. 221 et seq. ); the Bank Holding Company Act of 1956, as amended (12 U.S.C. 1841 et seq. ); the Home Owners' Loan Act of 1933 (12 U.S.C. 1461 et seq. ); section 165 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5365); and the International Banking Act of 1978, as amended (12 U.S.C. 3101 et seq. ).
+
+(2) Nothing in this part shall be read to limit the authority of the Board to take action under provisions of law other than 12 U.S.C. 3354, including but not limited to action to address unsafe or unsound practices or conditions, or violations of law or regulation, under section 8 of the Federal Deposit Insurance Act, as amended (12 U.S.C. 1818).
+
+(b) Purpose and scope. (1) The purpose of this subpart is to implement the quality control standards in section 3354 of title 12 for the use of automated valuation models in determining the value of collateral in connection with making a credit decision or covered securitization determination regarding a mortgage or a mortgage-backed security. This subpart applies to entities and institutions regulated by the Board (Board-regulated institutions) that are mortgage originators or secondary market issuers.
+
+(2) This subpart does not apply to the use of automated valuation models in:
+
+(i) Monitoring of the quality or performance of mortgages or mortgage-backed securities;
+
+(ii) Reviews of the quality of already completed determinations of the value of collateral; or
+
+(iii) The development of an appraisal by a certified or licensed appraiser.

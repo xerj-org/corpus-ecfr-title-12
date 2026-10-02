@@ -1,0 +1,13 @@
+Title 12 CFR — Part 1209—RULES OF PRACTICE AND PROCEDURE
+Subpart E—Civil Money Penalty Inflation Adjustments
+## § 1209.80 Inflation adjustments.
+
+§ 1209.80 Inflation adjustments.
+
+The maximum amount of each civil money penalty within FHFA's jurisdiction, as set by the Safety and Soundness Act and thereafter adjusted in accordance with the Inflation Adjustment Act, is as follows:
+
+Table 1 to § 1209.80
+
+U.S. Code citation Description Catch-up adjusted maximum penalty amount 12 U.S.C. 4636(b)(1) First Tier $14,575 12 U.S.C. 4636(b)(2) Second Tier 72,876 12 U.S.C. 4636(b)(4) Third Tier (Regulated Entity or Entity-Affiliated party) 2,915,057 12 U.S.C. 4585(b)(1) Maximum penalty for failure described in section 1345(a)(1), for each day that the failure occurs 145,754 12 U.S.C. 4585(b)(2) Maximum penalty for failure described in section 1345(a)(2), (3), or (4), for each day that the failure occurs 72,876
+
+[90 FR 59965, Dec. 23, 2025]

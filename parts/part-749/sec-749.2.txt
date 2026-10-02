@@ -1,0 +1,16 @@
+Title 12 CFR — Part 749—VITAL RECORDS PRESERVATION PROGRAM
+## § 749.2 Vital records preservation program.
+
+§ 749.2 Vital records preservation program.
+
+(a) The board of directors of a credit union is responsible for establishing a vital records preservation program within six months of its insurance certificate being issued. The program must be in writing and contain procedures for maintaining duplicate vital records at a vital records center. The procedures must include:
+
+(1) Designated staff responsible for vital records preservation,
+
+(2) A schedule for the storage and destruction of vital records, and
+
+(3) A records preservation log as determined by the credit union that will aid in locating and easily accessing the vital records. The log may be in electronic or any other format as determined by the credit union.
+
+(b) A credit union that has some or all of its vital records maintained by an off-site data processor is considered to be in compliance for the storage of those records if the service agreement specifies the data processor safeguards against the simultaneous destruction of production and back-up information.
+
+(c) Unless required by other law or regulation, older versions of vital records may be destroyed once their current versions are stored.

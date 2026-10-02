@@ -1,0 +1,21 @@
+Title 12 CFR — Part 328—FDIC OFFICIAL SIGNS, ADVERTISEMENT OF MEMBERSHIP, FALSE ADVERTISING, MISREPRESENTATION OF INSURED STATUS, AND MISUSE OF THE FDIC'S NAME OR LOGO
+Subpart A—FDIC Official Signs and Advertisement of Membership
+## § 328.4 Signs for automated teller machines (ATMs) and like devices.
+
+§ 328.4 Signs for automated teller machines (ATMs) and like devices.
+
+(a) Scope. This section governs signage for insured depository institutions' ATMs and other remote electronic facilities (referred to as “like devices”) that receive deposits. For purpose of this section, ATMs and like devices are not digital deposit-taking channels.
+
+(b) Display of FDIC official digital sign. Except as provided in paragraph (c) of this section, an insured depository institution must clearly, continuously, and conspicuously display the FDIC official digital sign specified in § 328.5(b) on the initial screen of the insured depository institution's ATMs and like devices. For purposes of this paragraph (b), a screen saver or an advertisement for products, services, or events on the screen of an idle ATM is not considered the “initial screen.”
+
+(c) Limited exception for certain ATMs to display physical official sign. The physical official sign as described in § 328.2 may be displayed in lieu of the FDIC official digital sign as described in § 328.5(b), for:
+
+(1) ATMs and like devices placed into service after April 1, 2027, that do not permit an insured depository institution's customer to transact with a non-deposit product; and
+
+(2) ATMs and like devices placed into service on or before April 1, 2027.
+
+(d) Non-deposit signage. An insured depository institution's ATM and like device that both receive deposits and permit the insured depository institution's customer to transact with one or more non-deposit products must clearly, continuously, and conspicuously display signage indicating that the non-deposit products: are not insured by the FDIC; are not deposits; and may lose value. This signage must be displayed on the first page or screen displayed upon initiating a transaction with a non-deposit product.
+
+(e) Additional disclosures permitted. This section does not limit an insured depository institution's ability to include additional disclosures.
+
+[91 FR 3812, Jan. 29, 2026]

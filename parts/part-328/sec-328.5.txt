@@ -1,0 +1,51 @@
+Title 12 CFR — Part 328—FDIC OFFICIAL SIGNS, ADVERTISEMENT OF MEMBERSHIP, FALSE ADVERTISING, MISREPRESENTATION OF INSURED STATUS, AND MISUSE OF THE FDIC'S NAME OR LOGO
+Subpart A—FDIC Official Signs and Advertisement of Membership
+## § 328.5 Signs for digital deposit-taking channels.
+
+§ 328.5 Signs for digital deposit-taking channels.
+
+(a) Scope. This section governs signage for digital deposit-taking channels, including insured depository institutions' websites and web-based or mobile applications, that offer the ability to make deposits electronically and provide access to deposits at insured depository institutions. This section does not apply to ATMs and like devices as described in § 328.4.
+
+(b) Design. In general, the “FDIC” in the FDIC official digital sign shall be displayed in bold, navy blue or black, and the “ FDIC-Insured—Backed by the full faith and credit of the U.S. Government” shall be displayed in smaller type, in italic, and with navy blue or black lettering. The entire FDIC official digital sign shall be displayed in Source Sans Pro Web or similar font. For an FDIC official digital sign that would be illegible if displayed in the colors listed in this paragraph (b), due to the color of the background, the FDIC official digital sign shall be displayed in white to contrast with the background, and must otherwise comply with the other format requirements listed in this paragraph (b). The official digital sign required by the provisions of this section shall have the following design, for which wrapping may be permitted to address space constraints:
+
+Figure 1 to Paragraph (b)
+
+(c) Display of FDIC official digital sign. An insured depository institution's digital deposit-taking channel must clearly, continuously, and conspicuously display the FDIC official digital sign specified in paragraph (b) of this section on the following pages or screens:
+
+(1) Initial page or homepage of the website or application;
+
+(2) Login page; and
+
+(3) Page or screen where the consumer first initiates a deposit account opening.
+
+(d) Non-deposit signage —(1) Display of non-deposit signage. (i) An insured depository institution's digital deposit-taking channel that:
+
+(A) Offers the ability to make deposits electronically and provides access to deposits; and
+
+(B) Advertises or provides information about, or access to, one or more non-deposit products must clearly, continuously, and conspicuously display signage indicating that the non-deposit products: are not insured by the FDIC; are not deposits; and may lose value.
+
+(ii) This signage must be displayed on all pages or screens primarily dedicated to advertising or providing information about, or access to, one or more non-deposit products.
+
+(2) One-time notification for insured depository institution customers related to third-party non-deposit products —(i) Notification requirement. An insured depository institution's digital deposit-taking channel that provides access to a non-deposit product from a non-bank third party's online interface must provide a one-time per session notification to an insured depository institution customer who is logged into the insured depository institution's digital deposit-taking channel before the customer leaves the insured depository institution's digital deposit-taking channel to access the non-bank third party's non-deposit product.
+
+(ii) Content of notification. The notification in paragraph (d)(2)(i) of this section must clearly and conspicuously indicate that the third party's non-deposit products: are not insured by the FDIC; are not deposits; and may lose value.
+
+(iii) Dismissal of notification. The notification requirement in paragraph (d)(2)(i) of this section is satisfied if the notification, either or both:
+
+(A) Is dismissed by an affirmative act of the bank customer, such as a click or swipe, after any period of time; or
+
+(B) Automatically disappears after being displayed for a minimum of three seconds.
+
+(e) Examples of clear, continuous, and conspicuous placement. Examples of the FDIC official digital sign and non-deposit signage placement that would satisfy the “clear, continuous, and conspicuous” standard include, but are not limited to, the following:
+
+(1) The homepage of an insured depository institution's website that continuously displays the FDIC official digital sign near the top of the page and adjacent to the insured depository institution's name;
+
+(2) The login page for an insured depository institution's mobile application that displays the FDIC official digital sign immediately adjacent to the username and password fields;
+
+(3) The deposit account opening page for an insured depository institution's web-based application that displays the FDIC official digital sign near the top or center of the page; and
+
+(4) With respect to non-deposit signage, a page on an insured depository institution's website promoting, for example, annuities available for purchase, with non-deposit signage appearing towards the bottom of the page in a manner that distinguishes the text of the non-deposit signage from the smallest text on the page using, for example, bold or larger text, or surrounding the signage with a text box.
+
+(f) Additional disclosures permitted. This section does not limit an insured depository institution's ability to include additional disclosures.
+
+[91 FR 3812, Jan. 29, 2026]

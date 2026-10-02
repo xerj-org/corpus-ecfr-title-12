@@ -1,0 +1,55 @@
+Title 12 CFR — Part 1026—TRUTH IN LENDING (REGULATION Z)
+Subpart G—Special Rules Applicable to Credit Card Accounts and Open-End Credit Offered to College Students
+## § 1026.62 Overdraft credit.
+
+§ 1026.62 Overdraft credit.
+
+(a) In general —(1) Overdraft credit is subject to this section and this part as specified below.
+
+(2) Overdraft credit is any consumer credit extended by a financial institution to pay a transaction from a checking or other transaction account (other than a prepaid account as defined in § 1026.61) held at the financial institution when the consumer has insufficient or unavailable funds in that account. The term overdraft credit includes, but is not limited to, any such consumer credit extended through a transfer from a credit card account or overdraft line of credit. The term does not include credit exempt from this part pursuant to § 1026.3.
+
+(b) Definitions. For purposes of this section and this part, the following definitions apply:
+
+(1) Above breakeven overdraft credit means overdraft credit extended by a very large financial institution to pay a transaction on which, as an incident to or a condition of the overdraft credit, the very large financial institution imposes a charge or combination of charges exceeding the average of its costs and charge-off losses for providing non-covered overdraft credit as described in paragraph (d) of this section.
+
+(2) Covered asset account means a checking or other transaction account (other than a prepaid account as defined in § 1026.61) provided by a very large financial institution that is tied to overdraft credit provided by the very large financial institution.
+
+(3) Covered overdraft credit means overdraft credit that is subject to a finance charge or is payable by written agreement in more than four installments.
+
+(4) Covered overdraft credit account means a credit account through which a financial institution extends or can extend covered overdraft credit. For example, the term includes any line of credit, credit card account, credit feature, credit plan, or credit subaccount through which the financial institution extends or can extend covered overdraft credit.
+
+(5) Hybrid debit-credit card means any card, plate, or other single credit device that a consumer may use from time to time to obtain covered overdraft credit from a very large financial institution.
+
+(6) Non-covered overdraft credit means overdraft credit that is not subject to a finance charge and is not payable by written agreement in more than four installments.
+
+(7) Overdraft credit has the meaning set out in paragraph (a)(2) of this section.
+
+(8) Very large financial institution means an insured depository institution or an insured credit union that has total assets of more than $10,000,000,000 and any affiliate thereof, as determined under 12 U.S.C. 5515(a).
+
+(c) Structure of covered overdraft credit. A very large financial institution shall not structure covered overdraft credit as a negative balance on a checking or other transaction account. The very large financial institution shall structure covered overdraft credit as a separate credit account. The separate credit account is a covered overdraft credit account. The tied checking or other transaction account is a covered asset account.
+
+(d) Charges exceeding the average of its costs and charge-off losses for providing non-covered overdraft credit —(1) General rule. For purposes of paragraph (b)(1) of this section, any charge or combination of charges to pay a transaction exceeds the average of a very large financial institution's costs and charge-off losses for providing non-covered overdraft credit if the charge or combination of charges exceeds the greater of:
+
+(i) The pro rata share of the very large financial institution's total direct costs and charge-off losses for providing non-covered overdraft credit in the previous year, calculated in accordance with this paragraph; or
+
+(ii) $5.
+
+(2) Cost and loss calculation. When calculating the pro rata share of the very large financial institution's total direct costs and charge-off losses for providing non-covered overdraft credit in the previous year, a very large financial institution may consider only those costs and charge-off losses specifically traceable to its provision of non-covered overdraft credit in the previous year. Such costs and charge-off losses include, but are not limited to, its cost of funds, its net charge-off losses, and operating expenses for its non-covered overdraft credit program. Such costs and charge-off losses do not include general overhead costs or charge-off losses due to unauthorized use, EFT errors, billing errors, returned deposit items, or rescinded provisional credit.
+
+(3) For purposes of paragraph (d)(2) of this section, a cost or charge-off loss is specifically traceable if it has a direct relationship to the provision of non-covered overdraft services and the very large financial institution can provide evidence to demonstrate that direct relationship.
+
+(4) For purposes of paragraph (d)(1) of this section, a charge or combination of charges includes all revenue received in connection with an overdraft transaction, including, but not limited to, any extended or sustained overdraft fees, any interest charges on outstanding overdraft balances, and any other payments the very large financial institution receives in connection with an overdraft transaction.
+
+(5) When calculating the pro rata share of its total direct costs and charge-off losses for providing non-covered overdraft credit in the previous year, a very large financial institution must include all non-covered overdraft transactions from the previous year in its calculation.
+
+(6) For purposes of paragraph (d)(1)(i) of this section, the term “previous year” means a period that encompasses, at the very large financial institution's option, any of the following periods:
+
+(i) The prior calendar year,
+
+(ii) Any 365-day period that begins within the prior calendar year,
+
+(iii) The prior four financial quarters, or
+
+(iv) The very large financial institution's prior accounting year.
+
+[89 FR 106837, Dec. 30, 2024]

@@ -1,0 +1,85 @@
+Title 12 CFR — Part 225—BANK HOLDING COMPANIES AND CHANGE IN BANK CONTROL (REGULATION Y)
+Subpart O—Quality Control Standards for Automated Valuation Models Used for Mortgage Lending Purposes
+## § 225.351 Definitions.
+
+§ 225.351 Definitions.
+
+As used in this subpart:
+
+Automated valuation model means any computerized model used by mortgage originators and secondary market issuers to determine the value of a consumer's principal dwelling collateralizing a mortgage.
+
+Control systems means the functions (such as internal and external audits, risk review, quality control, and quality assurance) and information systems that are used to measure performance, make decisions about risk, and assess the effectiveness of processes and personnel, including with respect to compliance with statutes and regulations.
+
+Covered securitization determination means a determination regarding:
+
+(1) Whether to waive an appraisal requirement for a mortgage origination in connection with its potential sale or transfer to a secondary market issuer; or
+
+(2) Structuring, preparing disclosures for, or marketing initial offerings of mortgage-backed securitizations.
+
+Credit decision means a decision regarding whether and under what terms to originate, modify, terminate, or make other changes to a mortgage, including a decision whether to extend new or additional credit or change the credit limit on a line of credit.
+
+Dwelling means a residential structure that contains one to four units, whether or not that structure is attached to real property. The term includes an individual condominium unit, cooperative unit, factory-built housing, or manufactured home, if it is used as a residence. A consumer can have only one “principal” dwelling at a time. Thus, a vacation or other second home would not be a principal dwelling. However, if a consumer buys or builds a new dwelling that will become the consumer's principal dwelling within a year or upon the completion of construction, the new dwelling is considered the principal dwelling for purposes of this subpart.
+
+Mortgage means a transaction in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained in a consumer's principal dwelling.
+
+Mortgage originator means:
+
+(1) Any person who, for direct or indirect compensation or gain, or in the expectation of direct or indirect compensation or gain—
+
+(i) Takes a mortgage application;
+
+(ii) Assists a consumer in obtaining or applying to obtain a mortgage; or
+
+(iii) Offers or negotiates terms of a mortgage;
+
+(2) Includes any person who represents to the public, through advertising or other means of communicating or providing information (including the use of business cards, stationery, brochures, signs, rate lists, or other promotional items), that such person can or will provide any of the services or perform any of the activities described in paragraph (1) of this definition;
+
+(3) Does not include any person who is—
+
+(i) Not otherwise described in paragraph (1) or (2) of this definition and who performs purely administrative or clerical tasks on behalf of a person who is described in any such paragraph; or
+
+(ii) A retailer of manufactured or modular homes or an employee of the retailer if the retailer or employee, as applicable—
+
+(A) Does not receive compensation or gain for engaging in activities described in paragraph (1) of this definition that is in excess of any compensation or gain received in a comparable cash transaction;
+
+(B) Discloses to the consumer—
+
+( 1 ) In writing any corporate affiliation with any creditor; and
+
+( 2 ) If the retailer has a corporate affiliation with any creditor, at least 1 unaffiliated creditor; and
+
+(C) Does not directly negotiate with the consumer or lender on loan terms (including rates, fees, and other costs);
+
+(4) Does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless such person or entity is compensated by a lender, a mortgage broker, or other mortgage originator or by any agent of such lender, mortgage broker, or other mortgage originator;
+
+(5) Does not include a person that meets all of the following criteria:
+
+(i) The person provides seller financing for the sale of three or fewer properties in any 12-month period to purchasers of such properties, each of which is owned by the person and serves as security for the financing;
+
+(ii) The person has not constructed, or acted as a contractor for the construction of, a residence on the property in the ordinary course of business of the person;
+
+(iii) The person provides seller financing that meets the following requirements:
+
+(A) The financing is fully amortizing;
+
+(B) The financing is one that the person determines in good faith the consumer has a reasonable ability to repay;
+
+(C) The financing has a fixed rate or an adjustable rate that is adjustable after five or more years, subject to reasonable annual and lifetime limitations on interest rate increases. If the financing agreement has an adjustable rate, the rate is determined by the addition of a margin to an index rate and is subject to reasonable rate adjustment limitations. The index the adjustable rate is based on is a widely available index such as indices for U.S. Treasury securities or SOFR.
+
+(6) Does not include a natural person, estate, or trust that meets all of the following criteria:
+
+(i) The natural person, estate, or trust provides seller financing for the sale of only one property in any 12-month period to purchasers of such property, which is owned by the natural person, estate, or trust and serves as security for the financing;
+
+(ii) The natural person, estate, or trust has not constructed, or acted as a contractor for the construction of, a residence on the property in the ordinary course of business of the person;
+
+(iii) The natural person, estate, or trust provides seller financing that meets the following requirements:
+
+(A) The financing has a repayment schedule that does not result in negative amortization;
+
+(B) The financing has a fixed rate or an adjustable rate that is adjustable after five or more years, subject to reasonable annual and lifetime limitations on interest rate increases. If the financing agreement has an adjustable rate, the rate is determined by the addition of a margin to an index rate and is subject to reasonable rate adjustment limitations. The index the adjustable rate is based on is a widely available index such as indices for U.S. Treasury securities or SOFR.
+
+(7) Does not include a servicer or servicer employees, agents and contractors, including but not limited to those who offer or negotiate terms of a mortgage for purposes of renegotiating, modifying, replacing and subordinating principal of existing mortgages where borrowers are behind in their payments, in default or have a reasonable likelihood of being in default or falling behind.
+
+Person has the meaning given in section 103 of the Truth in Lending Act (15 U.S.C. 1602).
+
+Secondary market issuer means any party that creates, structures, or organizes a mortgage-backed securities transaction.

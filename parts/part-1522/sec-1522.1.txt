@@ -1,0 +1,9 @@
+Title 12 CFR — Part 1522—STABLECOIN CERTIFICATION REVIEW COMMITTEE
+Subpart A—General Provisions
+## § 1522.1 Scope and applicability.
+
+§ 1522.1 Scope and applicability.
+
+(a) Authority and purpose. This part is issued to implement certain responsibilities of the Stablecoin Certification Review Committee under the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act) (12 U.S.C. 5901 et seq. ). The regulations in this part are of the Committee, published by the agency of its Chair, the Department of the Treasury, at the direction of the Committee.
+
+(b) Subpart B. Subpart B of this part sets forth procedures related to the submission to the Committee and the Committee's review of State payment stablecoin regulators' “substantial similarity” certifications and recertifications under section 4(c) of the GENIUS Act (12 U.S.C. 5903(c)). Appendices A and B to this part contain forms for the initial and annual certifications required under section 4(c) of the Act (12 U.S.C. 5903(c)).

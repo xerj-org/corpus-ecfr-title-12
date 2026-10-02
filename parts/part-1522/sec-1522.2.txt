@@ -1,0 +1,31 @@
+Title 12 CFR — Part 1522—STABLECOIN CERTIFICATION REVIEW COMMITTEE
+Subpart A—General Provisions
+## § 1522.2 Definitions.
+
+§ 1522.2 Definitions.
+
+(a) To the extent not otherwise defined in this part, the terms used in this part have the same meaning given to them as in section 2 of the GENIUS Act (12 U.S.C. 5901).
+
+(b) For purposes of this part, the following definitions apply:
+
+(1) Act or GENIUS Act means the Guiding and Establishing National Innovation for U.S. Stablecoins Act (12 U.S.C. 5901 et seq. ).
+
+(2) Material change means any legislative, regulatory, supervisory, judicial, or other similar change in the relevant State that, either individually or together with other such changes, has, causes, or could reasonably be expected to have or cause a material effect on the State-level regulatory regime. Material changes may include, but are not limited to, changes affecting the scope of a State payment stablecoin regulator's regulatory or supervisory authority, including examination or reporting authorities; enforcement powers; prudential standards, including those relating to reserves, redemption, liquidity, capital, governance, or risk management; and the scope of entities or activities subject to State payment stablecoin regulation or supervision.
+
+(3) Significant change in circumstances means a change in circumstances, including, but not limited to, a change in Federal statutes, regulations, interpretations, or orders; market conditions; issuer behavior; or risk-related developments, that, either individually or together with other such changes, significantly affects the operation, effectiveness, or supervisory outcomes of a State-level regulatory regime or causes the State-level regulatory regime and the Federal regulatory framework to significantly diverge; provided, that a material change itself is not a significant change in circumstances.
+
+(4) Stablecoin Certification Review Committee or Committee means the Stablecoin Certification Review Committee as defined in section 2(27) of the GENIUS Act (12 U.S.C. 5901(27)).
+
+(5) State has the meaning set forth in section 2(28) of the GENIUS Act (12 U.S.C. 5901(28)).
+
+(6) State payment stablecoin regulator has the meaning set forth in section 2(30) of the GENIUS Act (12 U.S.C. 5901(30)).
+
+(7) State-level regulatory regime, with respect to a particular State, means:
+
+(i) All statutes enacted by the State regarding payment stablecoins;
+
+(ii) Any regulations regarding payment stablecoins or that apply to a State qualified payment stablecoin issuer issued by a State payment stablecoin regulator of the State or another regulator of the State; and
+
+(iii) Any interpretations or guidance thereunder, only to the extent they are enforceable against State qualified payment stablecoin issuers.
+
+(8) State qualified payment stablecoin issuer has the meaning set forth in section 2(31) of the GENIUS Act (12 U.S.C. 5901(31)).

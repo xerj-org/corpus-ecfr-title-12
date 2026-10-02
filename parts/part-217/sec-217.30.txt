@@ -1,0 +1,9 @@
+Title 12 CFR — Part 217—CAPITAL ADEQUACY OF BANK HOLDING COMPANIES, SAVINGS AND LOAN HOLDING COMPANIES, AND STATE MEMBER BANKS (REGULATION Q)
+Subpart D—Risk-Weighted Assets—Standardized Approach
+## § 217.30 Applicability.
+
+§ 217.30 Applicability.
+
+(a) This subpart sets forth methodologies for determining risk-weighted assets for purposes of the generally applicable risk-based capital requirements for all Board-regulated institutions.
+
+(b) Notwithstanding paragraph (a) of this section, a market risk Board-regulated institution must exclude from its calculation of risk-weighted assets under this subpart the risk-weighted asset amounts of all covered positions, as defined in subpart F of this part (except foreign exchange positions that are not trading positions, OTC derivative positions, cleared transactions, and unsettled transactions).

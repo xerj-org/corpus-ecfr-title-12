@@ -1,0 +1,17 @@
+Title 12 CFR — Part 34—REAL ESTATE LENDING AND APPRAISALS
+Subpart I—Quality Control Standards for Automated Valuation Models Used for Mortgage Lending Purposes
+## § 34.222 Quality control standards.
+
+§ 34.222 Quality control standards.
+
+Mortgage originators and secondary market issuers that engage in credit decisions or covered securitization determinations themselves, or through or in cooperation with a third-party or affiliate, must adopt and maintain policies, practices, procedures, and control systems to ensure that automated valuation models used in these transactions adhere to quality control standards designed to:
+
+(a) Ensure a high level of confidence in the estimates produced;
+
+(b) Protect against the manipulation of data;
+
+(c) Seek to avoid conflicts of interest;
+
+(d) Require random sample testing and reviews; and
+
+(e) Comply with applicable nondiscrimination laws.

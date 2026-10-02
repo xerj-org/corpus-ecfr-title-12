@@ -1,0 +1,17 @@
+Title 12 CFR — Part 1222—APPRAISALS
+Subpart C—Quality Control Standards for Automated Valuation Models
+## § 1222. 27 Authority, purpose, and scope.
+
+§ 1222. 27 Authority, purpose, and scope.
+
+(a) Authority. This subpart is issued by the Federal Housing Finance Agency pursuant to 12 U.S.C. 4501 et seq., 12 U.S.C. 4526, section 1125 of FIRREA, 12 U.S.C. 3354, as added by section 1473(q) of the Dodd-Frank Act.
+
+(b) Purpose and scope. (1) The purpose of this subpart is to implement the quality control standards in section 3354 of title 12 for the use of automated valuation models in determining the value of collateral in connection with making a credit decision or covered securitization determination regarding a mortgage or mortgage-backed security. This subpart applies to entities regulated by the Federal Housing Finance Agency.
+
+(2) This subpart does not apply to the use of automated valuation models in:
+
+(i) Monitoring of the quality or performance of mortgages or mortgage-backed securities;
+
+(ii) Reviews of the quality of already completed determinations of the value of collateral; or
+
+(iii) The development of an appraisal by a certified or licensed appraiser.

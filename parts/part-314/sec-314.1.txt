@@ -1,0 +1,84 @@
+Title 12 CFR — Part 314—INDEXING OF SPECIFIED REGULATORY THRESHOLDS
+## § 314.1 Threshold indexing.
+
+§ 314.1 Threshold indexing.
+
+(a) Methodology. The dollar thresholds specified in paragraph (c) of this section shall be adjusted by multiplying the baseline threshold values specified in paragraph (c) of this section by one plus the cumulative percent change in the non-seasonally adjusted Consumer Price Index for Urban Wage Earners and Clerical Workers, measured from the effective date of this rule, as further described in paragraph (b) of this section, and shall be rounded in accordance with paragraph (d) of this section.
+
+(b) Frequency —(1) In general—biennial adjustments. Except as otherwise provided in paragraph (b)(2), (b)(3), or (b)(4) of this section, the adjustments described in paragraph (a) of this section shall be effective on October 1 following each consecutive two-year period ending August 30, and using the non-seasonally adjusted Consumer Price Index for Urban Wage Earners and Clerical Workers as of August 30 of that year.
+
+(2) 2027 adjustment. The first adjustment described in paragraph (a) of this section, which shall be effective on October 1, 2027, shall be made using one plus the cumulative percent change in the non-seasonally adjusted Consumer Price Index for Urban Wage Earners and Clerical Workers through August 30, 2027.
+
+(3) Periods of high inflation—annual adjustments. If the cumulative percent change of the non-seasonally adjusted Consumer Price Index for Urban Wage Earners and Clerical Workers, measured over the 12-month period ending August 30 following the year in which the most recent adjustment was made exceeds 8 percent, then the dollar thresholds shall be adjusted in accordance with paragraph (a) of this section using the cumulative percent change of the non-seasonally adjusted Consumer Price Index for Urban Wage Earners and Clerical Workers, measured over the 12-month period ending August 30 with an effective date of October 1 following the year in which the most recent adjustment was made.
+
+(4) Periods of negative inflation—no adjustments. Notwithstanding paragraph (b)(1) or (b)(2) of this section, if an adjustment of dollar thresholds using the cumulative percent change of the non-seasonally adjusted Consumer Price Index for Urban Wage Earners and Clerical Workers from the effective date of this rule or the most recent adjustment, as applicable, would not result in an increase from the current dollar thresholds, no adjustment will be made pursuant to paragraph (a) of this section.
+
+(c) Specified thresholds. The thresholds in the following sections shall be adjusted in accordance with paragraph (a) of this section relative to the baseline threshold values as of January 1, 2026, specified in paragraphs (c)(1) through (31) of this section:
+
+(1) Section 303.227(a)(2) of this chapter, baseline threshold value $3,500;
+
+(2) Section 303.227(b)(3)(i) of this chapter, baseline threshold value $1,225;
+
+(3) Section 335.801(d) of this chapter, baseline threshold value $10,000,000;
+
+(4) Section 340.2(h)(1) of this chapter, baseline threshold value $100,000;
+
+(5) Section 340.2(h)(2) of this chapter, baseline threshold value $100,000;
+
+(6) Section 340.2(h)(3) of this chapter, baseline threshold value $100,000;
+
+(7) Section 340.2(h)(4) of this chapter, baseline threshold value $100,000;
+
+(8) Section 347.111(a)(1) of this chapter, baseline threshold value $120,000,000;
+
+(9) Section 347.111(b)(1) of this chapter, baseline threshold value $60,000,000;
+
+(10) Section 363.1(a) of this chapter, baseline threshold value $1,000,000,000;
+
+(11) Section 363.2(b)(3) of this chapter, baseline threshold value $5,000,000,000;
+
+(12) Section 363.3(b) of this chapter, baseline threshold value $5,000,000,000;
+
+(13) Section 363.4(a)(2) of this chapter, baseline threshold value $5,000,000,000;
+
+(14) Section 363.4(c)(3) of this chapter, baseline threshold value $5,000,000,000;
+
+(15) Section 363.5(a)(1) of this chapter, baseline threshold value $5,000,000,000;
+
+(16) Both thresholds in § 363.5(a)(2) of this chapter, baseline threshold values of $1,000,000,000 or more but less than $5,000,000,000;
+
+(17) Section 363.5(b) of this chapter, baseline threshold value $5,000,000,000;
+
+(18) Both thresholds in paragraph (8)(A) of appendix A of part 363 of this chapter, baseline threshold value $5,000,000,000;
+
+(19) Paragraph (10) of appendix A of part 363 of this chapter, baseline threshold value $5,000,000,000;
+
+(20) Paragraph (18)A of appendix A of part 363 of this chapter, baseline threshold value $5,000,000,000;
+
+(21) All three thresholds in paragraph (27) of appendix A of part 363 of this chapter, with the first baseline threshold value being $5,000,000,000 or more and the second and third baseline threshold values being $1,000,000,000 or more but less than $5,000,000;
+
+(22) Paragraph (30)(b) of appendix A of part 363 of this chapter, baseline threshold value $5,000,000,000;
+
+(23) Both thresholds in paragraph (30)(c) of appendix A of part 363 of this chapter, baseline threshold value $1,000,000,000 or more but less than $5,000,000,000;
+
+(24) Paragraph (35)(a) of appendix A of part 363 of this chapter, baseline threshold value $1,000,000,000;
+
+(25) Paragraph (35)(b) of appendix A of part 363 of this chapter, baseline threshold value $5,000,000,000;
+
+(26) Paragraph (35)(c) of appendix A of part 363 of this chapter, baseline threshold value $5,000,000,000;
+
+(27) Paragraph 2(b) of appendix B of part 363 of this chapter, baseline threshold value $5,000,000,000;
+
+(28) Section 380.13(b)(6)(i) of this chapter, baseline threshold value $100,000;
+
+(29) Section 380.13(b)(6)(ii) of this chapter, baseline threshold value $100,000;
+
+(30) Section 380.13(b)(6)(iii) of this chapter, baseline threshold value $100,000; and
+
+(31) Section 380.13(b)(6)(iv) of this chapter, baseline threshold value $100,000.
+
+(d) Rounding. When adjusting thresholds under this section, each threshold shall be rounded based on the size of the threshold ( e.g., thousands, millions, billions) to the nearest number with two significant digits.
+
+(e) Effective date of threshold adjustments. The FDIC shall announce the thresholds adjusted in accordance with this section by publishing in the Federal Register a final rule without notice and comment. Such adjusted thresholds shall be effective on October 1 of the year during which an adjustment is made.
+
+(f) Failure to publish final rule in Federal Register. In the event, for any reason, a final rule is not published in the Federal Register in a year in which an adjustment is made under this section, the thresholds specified in paragraph (c) of this section will adjust as provided in this section and be effective on October 1, notwithstanding the lack of a final rule published in the Federal Register .

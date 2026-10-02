@@ -1,0 +1,49 @@
+Title 12 CFR — Part 303—FILING PROCEDURES
+Subpart C—Establishment and Relocation of Domestic Branches and Offices
+## § 303.41 Definitions.
+
+§ 303.41 Definitions.
+
+For purposes of this subpart:
+
+(a) Branch, except as provided in this paragraph (a), includes any branch bank, branch office, additional office, or any branch place of business located in any State of the United States or in any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands at which deposits are received or checks paid or money lent. A branch does not include a remote service unit or a facility described in § 303.45. The term branch also includes the following:
+
+(1) A messenger service that is operated by a bank or its affiliate that picks up and delivers items relating to transactions in which deposits are received or checks paid or money lent. A messenger service established and operated by a non-affiliated third party generally does not constitute a branch for purposes of this subpart. Banks contracting with third parties to provide messenger services should consult with the FDIC to determine if the messenger service constitutes a branch.
+
+(2) A mobile branch, other than a messenger service, that does not have a single, permanent site and uses a vehicle that travels to various locations to enable the public to conduct banking business. A mobile branch may serve defined locations on a regular schedule or may serve a defined area at varying times and locations.
+
+(3) A temporary branch that operates for a limited period of time not to exceed one year as a public service, such as during an emergency or disaster situation.
+
+(4) A seasonal branch that operates at various periodically recurring intervals, such as during state and local fairs, college registration periods, and other similar occasions.
+
+(b) Branch relocation means a move within the same immediate neighborhood of the existing branch that does not substantially affect the nature of the business of the branch or the customers of the branch. Moving a branch to a location outside its immediate neighborhood is considered the closing of an existing branch and the establishment of a new branch. Closing of a branch is covered in the FDIC Statement of Policy Concerning Branch Closing Notices and Policies. 1 FDIC Law, Regulations, Related Acts 5391; see § 309.4(a) and (b) of this chapter for availability.
+
+(1) Rule of construction. For the purposes of this subpart, a de minimis change in address is neither a branch establishment nor a branch relocation.
+
+(i) A de minimis change in address occurs when a branch exchanges one physical facility for another within the same approximate location, such as where:
+
+(A) A direct line of sight exists between the two facilities;
+
+(B) The facilities share the same parking area; or
+
+(C) The facilities are located on contiguous properties or on the same block.
+
+(ii) Notice required. Notwithstanding the inapplicability of §§ 303.42 through 303.44, an insured State nonmember bank is required to provide reasonable advance written notice to customers of the branch undergoing a de minimis address change and advance notice to the appropriate FDIC office.
+
+(2) [Reserved]
+
+(c) De novo interstate branch means a branch of a bank that is established by the bank as a branch in a State other than the bank's home State or one in which the bank does not maintain a branch, and does not become a branch of such bank as a result of:
+
+(1) The acquisition by the bank of an insured depository institution or a branch of an insured depository institution; or
+
+(2) The conversion, merger, or consolidation of any such institution or branch.
+
+(d) Home state means the state by which the bank is chartered.
+
+(e) Host state means a state, other than the home state of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.
+
+(f) Intrastate main office relocation means the relocation of a main office of a bank within the same State such that there is no change in the bank's home State.
+
+(g) Remote service unit (RSU) is an automated or unstaffed facility, operated by a customer of a bank with at most delimited assistance from bank personnel, that conducts banking functions such as receiving deposits, paying withdrawals, or lending money. An RSU includes an automated teller machine, automated loan machine, automated device for receiving deposits, personal computer, telephone, other similar electronic devices, and drop boxes. An RSU may be equipped with a telephone or tele-video device that allows contact with bank personnel.
+
+[67 FR 79247, Dec. 27, 2002, as amended at 73 FR 35338, June 23, 2008; 73 FR 55432, Sept. 25, 2008; 90 FR 60557, Dec. 29, 2025]

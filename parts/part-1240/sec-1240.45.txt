@@ -1,0 +1,7 @@
+Title 12 CFR — Part 1240—CAPITAL ADEQUACY OF ENTERPRISES
+Subpart D—Risk-Weighted Assets—Standardized Approach
+## § 1240.45 Securitization exposures to which the SSFA and the CRTA do not apply.
+
+§ 1240.45 Securitization exposures to which the SSFA and the CRTA do not apply.
+
+An Enterprise must assign a 1,250 percent risk weight to any acquired CRT exposure and all securitization exposures to which the Enterprise does not apply the SSFA under § 1240.43 or the CRTA under § 1240.44.

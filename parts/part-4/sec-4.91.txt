@@ -1,0 +1,71 @@
+Title 12 CFR — Part 4—ORGANIZATION AND FUNCTIONS, AVAILABILITY AND RELEASE OF INFORMATION, CONTRACTING OUTREACH PROGRAM, POST-EMPLOYMENT RESTRICTIONS FOR SENIOR EXAMINERS
+Subpart G—Enforcement and Supervision Standards
+## § 4.91 Prohibition on use of reputation risk.
+
+§ 4.91 Prohibition on use of reputation risk.
+
+(a) The OCC will not criticize, formally or informally, or take adverse action against an institution on the basis of reputation risk.
+
+(b) The OCC will not require, instruct, or encourage an institution, or any employee of an institution, to:
+
+(1) Refrain from contracting or doing business with a third party, including an institution-affiliated party, on the basis of reputation risk;
+
+(2) Terminate a contract or discontinue doing business with a third party, including an institution-affiliated party, on the basis of reputation risk;
+
+(3) Sign a contract or initiate doing business with a third-party, including an institution-affiliated party, on the basis of reputation risk; or
+
+(4) Modify the terms or conditions under which it contracts or does business with a third party, including an institution-affiliated party, on the basis of reputation risk.
+
+(c) The OCC will not require, instruct, or encourage an institution, or any employee of an institution, to terminate a contract with, discontinue doing business with, sign a contract with, initiate doing business with, modify the terms under which it will do business with a person or entity, or take any action or refrain from taking any action on the basis of the person's or entity's political, social, cultural, or religious views or beliefs, constitutionally protected speech, or solely on the basis of the person's or entity's involvement in politically disfavored but lawful business activities perceived to present reputation risk.
+
+(d) The prohibitions in paragraphs (a) through (c) of this section only apply to actions taken on the bases described in paragraphs (a) through (c) of this section, and the prohibition in paragraph (c) of this section shall not apply with respect to persons, entities, or jurisdictions sanctioned by the Office of Foreign Assets Control.
+
+(e) Nothing in this section shall restrict the OCC's authority to implement, administer, and enforce the provisions of subchapter II of chapter 53 of title 31, United States Code.
+
+(f) The OCC will not take any supervisory action or other adverse action against an institution, a group of institutions, or the institution-affiliated parties of any institution that is designed to punish or discourage an individual or group from engaging in any lawful political, social, cultural, or religious activities, constitutionally protected speech, or, for political reasons, lawful business activities that the OCC or any of its personnel disagree with or disfavor.
+
+(g) The following definitions apply in this section:
+
+Adverse action includes:
+
+(i) Any negative feedback delivered by or on behalf of the OCC to the supervised institution, including in a report of examination or a formal or informal enforcement action;
+
+(ii) A downgrade, or contribution to a downgrade, of any supervisory rating, including, but not limited to:
+
+(A) Any rating under the Uniform Financial Institutions Rating System (or any comparable rating system);
+
+(B) Any rating under the Uniform Interagency Consumer Compliance Rating System;
+
+(C) Any rating under the Uniform Rating System for Information Technology; and
+
+(D) Any rating under any other rating system;
+
+(iii) A denial of a licensing application;
+
+(iv) Inclusion of a condition on any licensing application or other approval;
+
+(v) Imposition of additional approval requirements;
+
+(vi) Any other heightened requirements on an activity or change;
+
+(vii) Any adjustment of the institution's capital requirement; and
+
+(viii) Any action that negatively impacts the institution, or an institution-affiliated party, or treats the institution differently than similarly situated peers.
+
+Doing business with means:
+
+(i) The bank providing any product or service, including account services;
+
+(ii) The bank contracting with a third party for the third party to provide a product or service;
+
+(iii) The bank providing discounted or free products or services to customers or third parties, including charitable activities;
+
+(iv) The bank entering into, maintaining, modifying, or terminating an employment relationship; or
+
+(v) Any other similar business activity that involves a bank client or a third party.
+
+Institution means an entity for which the OCC makes or will make supervisory or licensing determinations either solely or jointly.
+
+Institution-affiliated party means the same as in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(u)).
+
+Reputation risk means any risk, regardless of how the risk is labeled by the institution or regulators, that an action or activity, or combination of actions or activities, or lack of actions or activities, of an institution could negatively impact public perception of the institution for reasons not clearly and directly related to the financial or operational condition of the institution.

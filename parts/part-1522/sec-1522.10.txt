@@ -1,0 +1,83 @@
+Title 12 CFR — Part 1522—STABLECOIN CERTIFICATION REVIEW COMMITTEE
+Subpart B—State Certifications
+## § 1522.10 Certification forms and procedures.
+
+§ 1522.10 Certification forms and procedures.
+
+(a) Certifications requiring approval of Stablecoin Certification Review Committee. An initial certification or an annual recertification under section 4(c)(4) of the GENIUS Act (12 U.S.C. 5903(c)(4)), including all supporting information, must be submitted to the Committee in the form and containing the information set out in this part. Each certification, including all supporting information, must be submitted electronically to the email address specified from time to time on www.Treasury.gov.
+
+(b) Initial certification. An initial certification must contain—
+
+(1) An attestation in the form of appendix A to this part signed by an authorized representative of the State payment stablecoin regulator attesting that the State-level regulatory regime of its State meets the criteria for substantial similarity set forth in the principles for substantial similarity established by the Department of the Treasury pursuant to section 4(c) of the Act;
+
+(2) A detailed narrative describing how the State-level regulatory regime meets each of the criteria for substantial similarity set forth in the principles for substantial similarity established by the Department of the Treasury pursuant to section 4(c) of the Act;
+
+(3) Any supporting information and documentation, including, but not limited to, citations to relevant statutes, regulations, and guidance applicable to payment stablecoin issuers, and where necessary, copies of such statutes, regulations, and guidance. For each guidance document that is submitted, the corresponding section of the narrative under paragraph (b)(2) of this section must include a discussion of whether the guidance is binding on State qualified payment stablecoin issuers; and
+
+(4) Such information as the Committee may deem necessary for it to render a decision on whether the State-level regulatory regime satisfies the criteria for approval in section 4(c) of the GENIUS Act (12 U.S.C. 5903(c)).
+
+(c) Annual recertification. (1) Each annual recertification shall be submitted to the Committee during the calendar quarter in which the anniversary of the Committee's approval of the State payment stablecoin regulator's initial certification occurs (for example, if the initial certification was approved in February, the annual recertification must be submitted between January 1 and March 31 of each subsequent year).
+
+(2) A recertification must contain—
+
+(i) An attestation in the form of appendix B to this part signed by an authorized representative of the State payment stablecoin regulator that confirms the accuracy of the initial certification;
+
+(ii) A detailed narrative describing each change to the State-level regulatory regime since the prior certification that could potentially be considered to be a material change, excluding changes that are purely nonsubstantive in form or procedure; whether, in the opinion of the State payment stablecoin regulator, such change is a material change; and whether, in the opinion of the State payment stablecoin regulator, the change will not promote the safe and sound operation of State qualified payment stablecoin issuers under its supervision;
+
+(iii) A detailed narrative describing:
+
+(A) Each change in circumstances that could potentially be considered to be a significant change in circumstances;
+
+(B) Whether, in the opinion of the State payment stablecoin regulator, such change is a significant change in circumstances; and
+
+(C) Whether, in the opinion of the State payment stablecoin regulator, the change will not promote the safe and sound operation of State qualified payment stablecoin issuers under its supervision;
+
+(iv) Any supporting information and documentation, including, but not limited to, citations to relevant statutes, regulations, and guidance applicable to payment stablecoin issuers, and where necessary, copies of such statutes, regulations, and guidance. For each guidance document that is submitted, the corresponding section of the narrative under paragraph (c)(2)(ii) or (iii) of this section, as applicable, must include a discussion of whether the guidance is binding on State qualified payment stablecoin issuers; and
+
+(v) Such information as the Committee may deem necessary for it to render a decision on whether the State-level regulatory regime satisfies the criteria for approval in section 4(c) of the GENIUS Act (12 U.S.C. 5903(c)).
+
+(3) Failure of a State payment stablecoin regulator to submit an annual recertification under this section in a timely manner shall be deemed to constitute a suspension of the certification approval.
+
+(d) Submission of initial certifications and recertifications —(1) Submission. For purposes of this section:
+
+(i) An initial certification has not been submitted until all materials required under paragraph (b) of this section have been submitted.
+
+(ii) A recertification has not been submitted until all materials required under paragraph (c)(2) of this section have been submitted.
+
+(2) Rule of construction. Neither an initial certification nor an annual recertification shall be deemed to have been submitted within the meaning of paragraph (d)(1) of this section if the State payment stablecoin regulator has omitted any information necessary for the Committee to evaluate whether the State-level regulatory regime satisfies the criteria for approval in section 4(c) of the GENIUS Act (12 U.S.C. 5903(c)).
+
+(3) Additional information. The Committee may request, at any time, additional information as it deems necessary, in its sole discretion, to complete its review under section 4(c) of the Act (12 U.S.C. 5903(c)).
+
+(4) Notification of submission. The Committee will notify a State payment stablecoin regulator when the Committee determines that such regulator has submitted an initial certification or recertification.
+
+(e) Committee determinations —(1) Timing of decision. Not later than 30 days after the date on which a State payment stablecoin regulator submits an initial certification or recertification in accordance with this section, the Committee will approve or deny such certification.
+
+(2) Determinations on initial certifications. The Committee shall approve an initial certification submitted under paragraph (b) of this section if the Committee unanimously determines that the State-level regulatory regime meets or exceeds the standards and requirements described in section 4(a) of the GENIUS Act (12 U.S.C. 5903(a)).
+
+(3) Determinations on recertifications. The Committee shall only deny an annual recertification submitted under paragraph (c) of this section if the Committee determines that:
+
+(i) There has been a material change in the State-level regulatory regime or a significant change in circumstances since the prior certification; and
+
+(ii) The material change or significant change in circumstances identified is such that the State-level regulatory regime will not promote the safe and sound operation of State qualified payment stablecoin issuers under its supervision.
+
+(4) Expedited review. With respect to any State that, within 180 days of the date of enactment of the GENIUS Act, had in effect a prudential regulatory regime (including regulations and guidance) for the supervision of digital assets or payment stablecoins, the Committee will endeavor to process initial certifications on an expedited timeline after the effective date of the GENIUS Act.
+
+(f) Opportunity to cure and appeal. (1) If the Committee denies an initial certification or an annual recertification, it will provide the State payment stablecoin regulator with a written explanation of the denial, describing the reasoned basis for the denial with sufficient detail to enable the State to make any changes necessary for the State-level regulatory regime to meet or exceed the standards and requirements described in section 4(a) of the GENIUS Act.
+
+(2) With respect to a denial described in paragraph (f)(1) of this section, the Committee shall provide the State payment stablecoin regulator with not less than 180 days from the date on which the State payment stablecoin regulator is notified of such denial to—
+
+(i) Make such changes as may be necessary to ensure the State-level regulatory regime meets or exceeds the standards described in section 4(a) of the GENIUS Act; and
+
+(ii) Resubmit the initial certification or recertification.
+
+(3) If a denial described under paragraph (f)(1) of this section is based on a change resulting from an Act of Congress or a change in a relevant Federal regulation, interpretation, or order in accordance with the principles for substantial similarity established by the Department of the Treasury pursuant to section 4(c) of the Act, the period provided under paragraph (f)(2) of this section shall be the later of:
+
+(i) 180 days from the date on which the State payment stablecoin regulator is notified of such denial; or
+
+(ii) 2 years from either the date of enactment of the Act of Congress or from the date of publication of such Federal regulation, interpretation, or order.
+
+(4) If, after a State payment stablecoin regulator resubmits an initial certification or annual recertification under paragraph (f)(2)(ii) of this section, the Committee again denies the initial certification or annual recertification, the Committee shall, not later than 30 days after such denial, provide the State payment stablecoin regulator with a written explanation for the denial.
+
+(5) A State payment stablecoin regulator in receipt of a denial under paragraph (f)(4) of this section may appeal the denial to the United States Court of Appeals for the District of Columbia Circuit.
+
+(6) A State payment stablecoin regulator in receipt of a denial under this paragraph (f) may resubmit a new certification under this part.

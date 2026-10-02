@@ -1,0 +1,108 @@
+Title 12 CFR — Part 701—ORGANIZATION AND OPERATION OF FEDERAL CREDIT UNIONS
+## § 701.5 Preemption.
+
+§ 701.5 Preemption.
+
+This section states the NCUA Board's intent concerning preemption of state laws. The NCUA applies preemption principles derived from the United States Constitution, as interpreted through judicial precedent, when determining whether state laws apply.
+
+(a) Share, share draft or share certificate accounts. A Federal credit union may, consistent with this section, parts 707 and 740 of this subchapter, other Federal law, and its contractual obligations, determine the types of fees or charges and other matters affecting the opening, maintaining and closing of a share, share draft or share certificate account. State laws regulating such activities are not applicable to Federal credit unions.
+
+(b) Loans to members and lines of credit to members —(1) Preemption of state laws. This paragraph (b) is promulgated pursuant to the NCUA Board's exclusive authority as set forth in section 107(5) of the Federal Credit Union Act (12 U.S.C 1757(5)) to regulate the rates, terms of repayment and other conditions of Federal credit union loans and lines of credit (including credit cards). This exercise of the Board's authority preempts any state law purporting to limit or affect:
+
+(i)(A) Rates of interest and amounts of finance charges, including:
+
+( 1 ) The frequency or the increments by which a variable interest rate may be changed;
+
+( 2 ) The index to which a variable interest rate may be tied;
+
+( 3 ) The manner or timing of notifying the borrower of a change in interest rate;
+
+( 4 ) The authority to increase the interest rate on an existing balance;
+
+(B) Late charges; and
+
+(C) Closing costs, application, origination, or other fees;
+
+(ii) Terms of repayment, including:
+
+(A) The maturity of loans and lines of credit;
+
+(B) The amount, uniformity, and frequency of payments, including the accrual of unpaid interest if payments are insufficient to pay all interest due;
+
+(C) Balloon payments; and
+
+(D) Prepayment limits; and
+
+(iii) Conditions related to:
+
+(A) The amount of the loan or line of credit;
+
+(B) The purpose of the loan or line of credit;
+
+(C) The type or amount of security and the relation of the value of the security to the amount of the loan or line of credit;
+
+(D) Eligible borrowers; and
+
+(E) The imposition and enforcement of liens on the shares of borrowers and accommodation parties.
+
+(2) Matters not preempted. Except as provided by paragraph (b)(1) of this section, it is not the Board's intent to preempt state laws that do not affect rates, terms of repayment and other conditions described above concerning loans and lines of credit, for example:
+
+(i) Insurance laws;
+
+(ii) Laws related to transfer of and security interests in real and personal property (see, however, paragraph (b)(5) of this section) concerning the use and exercise of due-on-sale clauses); and
+
+(iii) Conditions related to:
+
+(A) Collection costs and attorneys' fees;
+
+(B) Requirements that consumer lending documents be in “plain language;” and
+
+(C) The circumstances in which a borrower may be declared in default and may cure default.
+
+(3) Other Federal law. Except as provided by paragraph (b)(1) of this section, it is not the Board's intent to preempt state laws affecting aspects of credit transactions that are primarily regulated by Federal law other than the Federal Credit Union Act, for example, state laws concerning credit cost disclosure requirements, credit discrimination, credit reporting practices, unfair credit practices, and debt collection practices. Applicability of state law in these instances should be determined pursuant to the preemption standards of the relevant Federal law and regulations.
+
+(4) Examination and enforcement. Except as otherwise agreed by the NCUA Board, the Board retains exclusive examination and administrative enforcement jurisdiction over Federal credit unions. Violations of Federal or applicable state laws related to the lending activities of a Federal credit union should be referred to the appropriate NCUA regional office.
+
+(5) Due-on-sale clauses. (i) Except as otherwise provided herein, the exercise of a due-on-sale clause by a Federal credit union is governed exclusively by section 341 of Public Law 97-320 and by any regulations issued by the Federal Home Loan Bank Board implementing section 341.
+
+(ii) In the case of a contract involving a long-term (greater than fifteen years), fixed rate first mortgage loan which was made or assumed, including a transfer of the liened property subject to the loan, during the period beginning on the date a State adopted a constitutional provision or statute prohibiting the exercise of due-on-sale clauses, or the date on which the highest court of such state has rendered a decision (or if the highest court has not so decided, the date on which the next highest court has rendered a decision resulting in a final judgment if such decision applies statewide) prohibiting such exercise, and ending on October 15, 1982, a Federal credit union may exercise a due-on-sale clause in the case of a transfer which occurs on or after November 18, 1982, unless exercise of the due-on-sale clause would be based on any of the following:
+
+(A) The creation of a lien or other encumbrance subordinate to the lender's security instrument which does not relate to a transfer of rights of occupancy in the property;
+
+(B) The creation of a purchase money security interest for household appliances;
+
+(C) A transfer by devise, descent, or operation of law on the death of a joint tenant or tenant by the entirety;
+
+(D) The granting of a leasehold interest of 3 years or less not containing an option to purchase;
+
+(E) A transfer to a relative resulting from the death of a borrower;
+
+(F) A transfer where the spouse or children of the borrower become an owner of the property;
+
+(G) A transfer resulting from a decree of a dissolution of marriage, a legal separation agreement, or from an incidental property settlement agreement, by which the spouse of the borrower becomes an owner of the property;
+
+(H) A transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property; or
+
+(I) Any other transfer or disposition described in regulations promulgated by the Federal Home Loan Bank Board.
+
+(c) Non-interest charges and fees —(1) Definition. For the purposes of this paragraph (c), charge means to directly or indirectly, through intermediaries, partners, payment networks, interchanges, or other third parties, assess, collect, impose, levy, receive, reserve, take, or otherwise obtain, including through a fee sharing or similar economic relationship.
+
+(2) Authority to impose charges and fees. An FCU may charge non-interest charges and fees, including share account service charges and interchange fees from credit and debit card operations.
+
+(3) Considerations. (i) Business decisions regarding non-interest charges and fees permitted under this paragraph should be arrived at by each Federal credit union on a competitive basis and not on the basis of any agreement, arrangement, undertaking, understanding, or discussion with other financial institutions or their officers.
+
+(ii) Decisions regarding charging non-interest charges and fees, including their amounts, the method of calculating them, whether to enter into business relationships or lines of business, and whether they are set by or in consultation with third parties, are business decisions to be made by each Federal credit union, in its discretion, according to sound banking judgment and safe and sound banking principles. A Federal credit union establishes non-interest charges and fees in accordance with safe and sound banking principles if it employs a decision-making process through which it considers the following factors, among others:
+
+(A) The cost incurred by the Federal credit union in providing the service;
+
+(B) The deterrence of misuse by members of financial services;
+
+(C) The enhancement of the competitive position of the Federal credit union in accordance with its business plan and marketing strategy;
+
+(D) The use of third parties to provide or facilitate the provision of a product or service; and
+
+(E) The maintenance of the safety and soundness of the Federal credit union.
+
+(d) State law. For purposes of this section, state law means the constitution, statutes, regulations, and judicial decisions of any state, the District of Columbia, the several territories and possessions of the United States, and the Commonwealth of Puerto Rico.
+
+[91 FR 34732, June 9, 2026]

@@ -1,0 +1,30 @@
+Title 12 CFR — Part 749—VITAL RECORDS PRESERVATION PROGRAM
+## § 749.1 Definitions.
+
+§ 749.1 Definitions.
+
+For purposes of this part:
+
+Vital member services are the essential financial services that a credit union provides to its members, such as member access to their accounts, share withdrawal and deposit facilities, and loan payments and disbursements.
+
+Vital records are the most recent and current versions of the records a credit union needs to restore vital member services. These records are:
+
+(1) A list of share, deposit, and loan balances for each member's account as of the close of the most recent business day that:
+
+(i) Shows each balance individually identified by a name or number,
+
+(ii) Lists multiple loans of one account separately, and
+
+(iii) Contains information sufficient to enable the credit union to locate each member, such as address and telephone number.
+
+(2) A financial report, which lists all of the credit union's asset and liability accounts, current as of the most recent month-end.
+
+(3) Bank reconcilements, current as of the most recent month-end.
+
+(4) A list of the credit union's accounts at financial institutions, insurance policies, and investments along with related contact information, current as of the most recent month-end.
+
+(5) Emergency contact information for employees, officials, regulatory offices, and vendors used to support vital records.
+
+(6) A credit union may classify additional records as vital and maintain older versions of any vital records as it determines necessary.
+
+Vital records center is a storage facility, which may include another federally insured credit union, at any location far enough from the credit union's offices to avoid the simultaneous loss of both sets of records in the event of a catastrophic act.

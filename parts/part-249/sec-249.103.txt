@@ -1,0 +1,7 @@
+Title 12 CFR — Part 249—LIQUIDITY RISK MEASUREMENT, STANDARDS, AND MONITORING (REGULATION WW)
+Subpart K—Net Stable Funding Ratio
+## § 249.103 Calculation of available stable funding amount.
+
+§ 249.103 Calculation of available stable funding amount.
+
+A Board-regulated institution's ASF amount equals the sum of the carrying values of the Board-regulated institution's NSFR regulatory capital elements and NSFR liabilities, in each case multiplied by the ASF factor applicable in § 249.104 or § 249.107(c) and consolidated in accordance with § 249.109.
